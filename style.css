@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    color: black;
+}
+table, th, td {
+    text-align: center;
+    justify-content: space-between;
+    border: 1px solid;
+  }
